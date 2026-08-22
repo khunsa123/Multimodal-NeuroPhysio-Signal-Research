@@ -78,6 +78,7 @@ Across these projects, the primary objectives are to:
 | 7 | **Multimodal Motor Imagery Analysis**               | EEG, EMG                    | Motor imagery decoding and multimodal sensor fusion                                                 | 🟡 Active Research                        |
 | 8 | **Somatosensory Pain iEEG-ECoG Analysis**           | iEEG, ECoG                  | Pain decoding, neurophysiological modeling, translational neuroscience                              | 🟡 Active Research                        |
 | 9 | **Multimodal Psychophysiology Pipeline — DS007537** | EEG, Eye Tracking, GSR, PPG | Cognitive load modeling, physiological arousal, multimodal fusion, EEG–eye tracking synchronization | 🟢 Complete                               |
+| 10 | **Neuropixels Population Dynamics**                | Neuropixels (spike data)    | Choice-dependent neural manifolds, functional connectivity networks, hub analysis, temporal persistence of choice-dependent neurons | 🟢 Complete                               |
 
 ---
 
@@ -148,6 +149,7 @@ Computational-Neuroscience-Multimodal-Signal-Research/
 ├── Multimodal Motor Imagery Analysis/
 ├── Somatosensory Pain iEEG-ECoG Analysis/
 ├── Multimodal-Psychophysiology-DS007537/
+├── Neuropixels-Population-Dynamics/
 └── README.md
 ```
 
